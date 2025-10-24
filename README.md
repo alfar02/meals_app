@@ -36,7 +36,7 @@ The app supports **multi-language (English/Arabic)** 🌍, **responsive design**
 
 | Meal Details | Profile Screen |
 |--------------|----------------|
-| <img src="screenshots/meal_details.png" width="250"/> | <img src="screenshots/profile_screen.png" width="250"/> |
+| <img src="screenshots/meal_details.png" width="250"/> | <img /> |
 
 ---
 
